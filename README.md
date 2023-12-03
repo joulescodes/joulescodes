@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joulescodes
-- 👀 I’m interested in backendend dev
+- 👀 I’m interested in backendend dev & AI
 - 🌱 I’m currently learning nodejs
 
 
